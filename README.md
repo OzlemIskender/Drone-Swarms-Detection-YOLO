@@ -24,3 +24,9 @@ Classes values were determined as 1, filters number 18, max_batches number 2000,
 
 
 ![drone_tespit](https://user-images.githubusercontent.com/58220997/124391796-e6614080-dcfa-11eb-90da-ffbaa4476708.gif)
+
+- One of the important tasks solved by these systems is the reliable detection of drones near protected objects. However, drone detection using visual information is hampered by the huge resemblance of drones to other objects such as birds or airplanes. In addition, since drones can reach very high speeds, detection must be done in real time.
+
+![d](https://user-images.githubusercontent.com/58220997/126679359-22a7f5b9-8d95-4534-b3c0-f0538ec112c6.PNG)
+
+

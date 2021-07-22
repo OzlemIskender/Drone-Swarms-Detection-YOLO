@@ -29,4 +29,5 @@ Classes values were determined as 1, filters number 18, max_batches number 2000,
 
 ![d](https://user-images.githubusercontent.com/58220997/126679359-22a7f5b9-8d95-4534-b3c0-f0538ec112c6.PNG)
 
+**As a result of the object detection process, an average of 97.48% success was achieved in the same type of drone types in the dataset, an average of 95.46% on noisy images with different scaled drone types, and an average of 95.67% on images of different weather conditions.**
 

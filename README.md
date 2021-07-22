@@ -1,4 +1,4 @@
-# The main goal of the study
+# The Main Goal of the Project
 
 - Security breaches that drone swarms may create in the air defense system must be determined in advance.
 - In this study, an intelligent drone detection system is proposed for the detection of drone swarm.
